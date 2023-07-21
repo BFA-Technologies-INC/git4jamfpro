@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Teamviewer Configuration</name>
+  <category>Maintenance</category>
+  <info/>
+  <notes>M.Litton
+In order for Teamviewer to have our branding, it needs to have a configuration ID set. 
+When we update with a standard package, our branding is not included
+If we update directly from our TeamViewer instance, our branding is included.
+This script sets our ID as $4 (in case it were to change in the future we can easily change)
+This way we can use a standard package to update w/o logging into TV every time.
+When Teamviewer is updated, this script should be in the policy to apply afterwards
+As of 12/2020 the ID should be idcuhn5535</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>BFA Custom Config ID</parameter4>
+  </parameters>
+  <os_requirements/>
+</script>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>DEPNotify Starter Script</name>
+  <category>Onboarding</category>
+  <info>script from: https://github.com/jamf/DEPNotify-Starter</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Testing Mode (True/False)</parameter4>
+    <parameter5>Fullscreen Mode (True/False)</parameter5>
+    <parameter6>No Sleep / Caffeinate Mode (True/False)</parameter6>
+    <parameter7>Self Service Custom Branding (True/False)</parameter7>
+    <parameter8>Complete method dropdown or main screen (True/False)</parameter8>
+    <parameter9>EULA Mode (True/False)</parameter9>
+    <parameter10>Registration Mode (True/False)</parameter10>
+  </parameters>
+  <os_requirements/>
+</script>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Setting up Dock</name>
+  <category>Scripts</category>
+  <info>Using Dockutil to set logged in users dock
+from: https://github.com/kcrawford/dockutil</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

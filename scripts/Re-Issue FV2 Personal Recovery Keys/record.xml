@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Re-Issue FV2 Personal Recovery Keys</name>
+  <category>Security</category>
+  <info/>
+  <notes>M.Litton (BFA)
+- https://github.com/jamf/FileVault2_Scripts/blob/master/reissueKey.sh</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Set organization name in pop up window</parameter4>
+    <parameter5>Failed Attempts until Stop</parameter5>
+    <parameter6>Custom text for contact information</parameter6>
+  </parameters>
+  <os_requirements/>
+</script>

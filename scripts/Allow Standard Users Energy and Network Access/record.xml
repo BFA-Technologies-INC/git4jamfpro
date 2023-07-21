@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Allow Standard Users Energy and Network Access</name>
+  <category>Scripts</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

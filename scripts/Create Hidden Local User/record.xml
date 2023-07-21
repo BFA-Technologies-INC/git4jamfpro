@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Create Hidden Local User</name>
+  <category>Scripts</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Longname</parameter4>
+    <parameter5>Shortname</parameter5>
+    <parameter6>Password</parameter6>
+  </parameters>
+  <os_requirements/>
+</script>

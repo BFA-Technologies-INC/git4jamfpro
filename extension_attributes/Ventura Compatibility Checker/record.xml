@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_extension_attribute>
+  <name>Ventura Compatibility Checker</name>
+  <enabled>true</enabled>
+  <description>https://github.com/laurentpertois/Ventura-Compatibility-Checker&#13;
+Added additional code before "Lets Go" from @dstranathan to see if Ventura already installed&#13;
+Reports back True, False, Installed</description>
+  <data_type>String</data_type>
+  <input_type>
+    <type>script</type>
+    <platform>Mac</platform>
+  </input_type>
+  <inventory_display>General</inventory_display>
+</computer_extension_attribute>

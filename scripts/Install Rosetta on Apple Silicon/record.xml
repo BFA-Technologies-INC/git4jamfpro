@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Install Rosetta on Apple Silicon</name>
+  <category>Onboarding</category>
+  <info/>
+  <notes>M.Litton BFA 01/18/21
+- https://github.com/rtrouton/rtrouton_scripts/blob/master/rtrouton_scripts/install_rosetta_on_apple_silicon/install_rosetta_on_apple_silicon.sh</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Installomator</name>
+  <category>Productivity</category>
+  <info/>
+  <notes>M.Litton (BFA)
+- VERSION="10.0beta2"
+- VERSIONDATE="2022-09-02"
+- https://github.com/Installomator/Installomator/blob/main/Installomator.sh</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Application Label</parameter4>
+    <parameter5>NOTIFY=success | silent (default success)</parameter5>
+    <parameter6>BLOCKING_PROCESS_ACTION=tell_user | prompt_user_then_kill | tell_user_then_kill (default tell user)</parameter6>
+  </parameters>
+  <os_requirements/>
+</script>
