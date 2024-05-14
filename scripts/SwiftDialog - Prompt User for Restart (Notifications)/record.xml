@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>SwiftDialog - Prompt User for Restart (Notifications)</name>
+  <category>Maintenance</category>
+  <info/>
+  <notes>Uploaded by BFA Technologies
+- https://medium.com/@laclementine/nudge-your-users-to-restart-their-mac-a66a93afc483</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>
