@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_extension_attribute>
+  <name>Elevate - Count</name>
+  <enabled>true</enabled>
+  <description>Gathers the number of elements in the Elevation Reasons array in the Elevate Plist, this will give a count of how many times a user has elevated their account.</description>
+  <data_type>Integer</data_type>
+  <input_type>
+    <type>script</type>
+    <platform>Mac</platform>
+  </input_type>
+  <inventory_display>Extension Attributes</inventory_display>
+</computer_extension_attribute>
