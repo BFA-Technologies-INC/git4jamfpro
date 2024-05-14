@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_extension_attribute>
+  <name>Elevate - Count</name>
+  <enabled>true</enabled>
+  <description>Gathers the elements in the Elevation Reasons array in the Elevate Plist and echos those reasons out for the EA.</description>
+  <data_type>String</data_type>
+  <input_type>
+    <type>script</type>
+    <platform>Mac</platform>
+  </input_type>
+  <inventory_display>Extension Attributes</inventory_display>
+</computer_extension_attribute>
