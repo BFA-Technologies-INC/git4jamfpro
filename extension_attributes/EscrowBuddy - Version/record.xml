@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_extension_attribute>
+  <name>EscrowBuddy - Version</name>
+  <enabled>true</enabled>
+  <description>Default Jamf inventory collection does not collect versions of non-app bundles like authorization plugins.
+</description>
+  <data_type>String</data_type>
+  <input_type>
+    <type>script</type>
+    <platform>Mac</platform>
+  </input_type>
+  <inventory_display>Extension Attributes</inventory_display>
+</computer_extension_attribute>
