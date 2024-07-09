@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>swiftDialog - Disk Usage</name>
+  <category>Maintenance</category>
+  <info/>
+  <notes>This script uses swiftDialog to present information to an enduser. 
+
+Script uses swiftDialog to prompt user to restart using script from Dan Snelson. 
+- https://snelson.us/2022/11/disk-usage-with-swiftdialog-0-0-3/
+
+Edit --infobuttontext and --infobuttonaction to the correct information for your organization
+Specify the following for Options > Parameter Labels
+Parameter 4: Script Log Location
+Parameter 5: Debug Mode [ true (default) | false ]
+Parameter 6: Expected Duration (in seconds)</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

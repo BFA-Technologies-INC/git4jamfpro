@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>sswiftDialog - Prompt to Self Service Item</name>
+  <category>Maintenance</category>
+  <info/>
+  <notes>This script uses swiftDialog to present information to an enduser. The popup will appear in the upper right corner of the users screen.
+
+In this script we are using the FileVault icon as an example. 
+- /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/FileVaultIcon.icns
+- other icons can be found here: https://gist.github.com/coolaj86/ea4d402a3d2ed34c7bc3e91655f21516
+- you can also build a PKG to install local assets to /usr/local/newFolder
+
+button1action 
+- set to an action like running a Self Service policy (execute or view)
+- example: jamfselfservice://content?entity=policy&id=1&action=execute
+
+message
+- change as needed</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

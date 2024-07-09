@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Elevate</name>
+  <category>Maintenance</category>
+  <info/>
+  <notes>Uploaded by BFA Technologies
+- https://github.com/robjschroeder/Elevate
+
+Note on managed configuration profile
+
+If you apply the managed configuration profile, all parameters passed into the script will be ignored. The script looks for the profile located at /Library/Managed Preferences/xyz.techitout.elevate.plist and will ignore the params passed in from a Jamf Pro policy. This is the ensure that the settings applied at the MDM level are respected.</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>
